@@ -8,3 +8,6 @@
 
 - Here on my Github you will find me trying to create and solve things.
 
+<br>
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/emil-hagelin-806185115/)
