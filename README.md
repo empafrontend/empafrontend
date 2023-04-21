@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 my name is Emil Hagelin</h1>
-<h3 align="center">A front-end developer looking for new challeneges!</h3>
+<h3 align="center">A front-end developer looking for new challenges!</h3>
 
 <br>
 
