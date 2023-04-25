@@ -17,9 +17,7 @@
 <h3 align="left">Techstack:</h3>
 
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,sass,tailwind,js,react,ts,nextjs,materialui,mongodb,nodejs,prisma,firebase,ai,xd,figma,vercel,netlify" />
-  </a>
 </p>
 
 <br>
