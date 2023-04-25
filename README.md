@@ -1,4 +1,4 @@
-<h1 align="center">Hello!<br><br> my name is Emil Hagelin</h1>
+<h1 align="center">Hello and welcome to my github!<br><br> My name is Emil Hagelin</h1>
 <h3 align="center">A front-end developer looking for new challenges!</h3>
 
 <br>
