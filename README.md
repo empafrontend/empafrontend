@@ -5,9 +5,9 @@
 
 ## What am i doing right now?
 
-- 🔭 I’m currently working inhouse as an intern [@ Garrison Consulting AB](https://garrison.se/)
+- 🔭 I’m currently looking for new opportunities and challenges in my career as a Junior Front-end Developer.
 
-- 🌱 I’m currently learning **SAP HANA, SAP Fiori, Neptune Software, React Native**
+- 🌱 I’m currently learning **React.js, JavaScript and React Native**
 
 - 📫 How to reach me **emilhaagelin@gmail.com**
 
